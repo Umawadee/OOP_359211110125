@@ -12,7 +12,7 @@ public class myStrToken {
         while (myToken.hasMoreTokens()){
             StringBuffer Buffer = new StringBuffer(myToken.nextToken());
             System.out.print(Buffer.reverse()+" ");
-        }
+        }//counToken
 
 
 
