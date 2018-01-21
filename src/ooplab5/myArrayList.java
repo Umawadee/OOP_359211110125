@@ -1,4 +1,4 @@
-package ooplap5;
+package ooplab5;
 
 import java.util.ArrayList;
 
