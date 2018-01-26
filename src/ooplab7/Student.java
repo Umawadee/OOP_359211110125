@@ -9,6 +9,8 @@ package ooplab7;
 //protected
 public class Student {
     //properties of Student class (private ความเป็นส่วนตัว)
+    public static int age;
+    public String group;
     private String id;
     private String name;
     private String pid;
